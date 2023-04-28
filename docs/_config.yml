@@ -21,9 +21,9 @@
 title: Yesser Miranda Dev
 email: yessermiranda15@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Website for publish content about my badges in programming world. 
+  My personal projects are going to be published here, to share with you.
+  If you have a recommendation about the structure of my website, just tell me.
 baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://yesserm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yessermiranda97
@@ -53,3 +53,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+defaults:
+  - scope:
+      path: "assets/img"
+    value:
+      image: true
