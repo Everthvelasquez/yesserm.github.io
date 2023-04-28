@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Mi sitio en GitHub Pages"
-date:   2023-04-28 11:45:02 -0600
-categories: github pages first
 ---
 
 # Mi Sitio en GitHub Pages con Jekyll
